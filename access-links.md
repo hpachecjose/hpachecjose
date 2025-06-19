@@ -11,8 +11,13 @@
 - [Gerador de vídeos IA Flow](https://wonderdynamics.com/#product)
 
 ## Programação e Tecnologias diversas
+- [Linhas de comandos Linux](https://docs.xubuntu.org/1810/user/pt_BR/command-line.html)
+- [Site Udemy](https://www.udemy.com/)
+- [Museu software antigo](https://vetusware.com/ )
 - [Editor de código online](https://stackblitz.com/)
 - [Stackoverflow em PT](https://pt.stackoverflow.com/)
+- [Código fonte](https://www.codigofonte.net/scripts/javascript)
+- [Freecode org](https://www.freecodecamp.org/)
 - [Mozilla org](https://mozillabr.org/)
 - [Leetcode](https://leetcode.com/)
 - [Beecrowd](https://judge.beecrowd.com/pt/login)
@@ -33,8 +38,12 @@
 - [Tecnologias](https://top500.org/)
 - [Criação de mapas mentais](https://www.mindmeister.com/)
 - [Casa do Código](https://www.casadocodigo.com.br)
+- [Lógica por trás dos CASSINOS](https://www.youtube.com/watch?v=2jQuuCMRpZk)
+- [Material de Universidade](https://dequeuniversity.com/)
+- 
 
 ## Tecnologia de Redes de Computadores
+- [Servidores globais](https://root-servers.org/)
 - [Roadmap SH](https://roadmap.sh/)
 - [Registros de domínio](https://www.marcaria.com/ws/pt/registrar/dominios/registro-dominio-me?gclid=EAIaIQobChMI15rb6v2v9wIVbmxvBB0gwQ6AEAAYAiAAEgKauPD_BwE)
 - [Site IANA](http://www.iana.org)
@@ -46,6 +55,7 @@
 - [Departamento de computação](http://www3.decom.ufop.br/decom/inicio/)
 - [Python](https://pypi.org/)
 - [Matplotib](https://matplotlib.org/stable/)
+- [IETF](https://www.ietf.org/ )
 
 ## Frontend
 - [Material para HTML](http://www.clem.ufba.br/tuts/html/c18.htm)
@@ -73,8 +83,9 @@
 - [Elementos HTML](https://uiverse.io/checkboxes)
 - [Validador de páginas HTML](https://validator.w3.org/)
 - [Material CSS](https://tableless.github.io/iniciantes/manual/css/background.html)
-  
-- [Domposer](https://domposer.com/)  
+- [Material de HTML](https://www.rgagnon.com/howto.html )
+- [Domposer](https://domposer.com/)
+- 
   Editor visual HTML e CSS com recursos WYSIWYG para criação rápida de páginas web.
 
 - [BlueprintJS](https://blueprintjs.com/docs/)  
@@ -222,6 +233,76 @@
 
 - [HeyGen AI](https://app.heygen.com/guest/create/draft?vt=l&poster=&tab=template)  
   Plataforma para criação de vídeos e avatares gerados por IA.
+
+  ## Plataformas de criação de imagens com IA
+
+- [Artbreeder](https://artbreeder.com/)  
+  Plataforma online que permite criar imagens realistas combinando fotos e pinturas existentes. Utiliza inteligência artificial para gerar, remixar e personalizar imagens, incluindo personagens, paisagens e ilustrações abstratas. Permite criar a partir de texto ou mesclando imagens, com controles simples para ajustar detalhes e explorar variações. Conta com uma comunidade ativa e um vasto acervo de imagens[1][2][5][6][7].
+
+- [WOMBO Dream](https://www.w.ai/)  
+  Aplicativo móvel que utiliza IA para transformar textos em imagens abstratas e criativas, facilitando a criação artística a partir de descrições textuais.
+
+- [NightCafe Creator](https://creator.nightcafe.studio/studio)  
+  Plataforma online que permite criar imagens usando inteligência artificial a partir de texto descritivo, oferecendo ferramentas para geração e compartilhamento de arte digital.
+
+- [GauGAN (Google AI)](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)  
+  Ferramenta desenvolvida pelo Google AI que permite criar paisagens realistas usando comandos de texto e esboços, com suporte a aprendizado de máquina para transformar desenhos simples em imagens detalhadas.
+
+  ## Lista de Frameworks Frontend e Backend para 2025
+
+### Frontend
+
+- [React.js](https://reactjs.org/)  
+  Framework/biblioteca para construção de interfaces de usuário baseado em componentes, criado pelo Meta. Muito popular para aplicações web dinâmicas e interativas[2][5][7].
+
+- [Angular](https://angular.io/)  
+  Framework completo mantido pelo Google, indicado para aplicações robustas e escaláveis, com suporte a ferramentas integradas e arquitetura modular[2][5][7][8].
+
+- [Vue.js](https://vuejs.org/)  
+  Framework progressivo e flexível, com curva de aprendizado suave, ideal para aplicações SPA e projetos que demandam adoção gradual[2][5][6][7].
+
+- [Svelte](https://svelte.dev/)  
+  Framework moderno que compila o código para JavaScript puro, gerando aplicações leves e performáticas, sem runtime pesado[2][5][7].
+
+- [Solid.js](https://www.solidjs.com/)  
+  Framework focado em alta performance e reatividade direta, com rápido crescimento e tamanho reduzido[5].
+
+- [Next.js](https://nextjs.org/)  
+  Framework React para renderização no servidor (SSR), static site generation (SSG) e otimização SEO, amplamente adotado para aplicações modernas[2][4][7].
+
+- [Nuxt.js](https://nuxtjs.org/)  
+  Framework para Vue.js com recursos similares ao Next.js, focado em SSR e geração de sites estáticos otimizados para SEO[2].
+
+- [Remix](https://remix.run/)  
+  Framework full-stack para React que oferece renderização otimizada no servidor e modelo eficiente de carregamento de dados[2].
+
+- [Bootstrap](https://getbootstrap.com/)  
+  Framework CSS que inclui componentes JavaScript para criação rápida de interfaces responsivas e estilizadas[3].
+
+### Backend / Full-stack
+
+- [Node.js](https://nodejs.org/)  
+  Ambiente de execução JavaScript no servidor, base para muitos frameworks backend modernos[2].
+
+- [Express.js](https://expressjs.com/)  
+  Framework minimalista para Node.js para criação de APIs e aplicações web backend.
+
+- [NestJS](https://nestjs.com/)  
+  Framework backend para Node.js baseado em TypeScript, com arquitetura modular e suporte a microserviços.
+
+- [Django](https://www.djangoproject.com/)  
+  Framework backend Python para desenvolvimento rápido e seguro de aplicações web.
+
+- [Ruby on Rails](https://rubyonrails.org/)  
+  Framework backend para Ruby focado em produtividade e convenções.
+
+- [Laravel](https://laravel.com/)  
+  Framework PHP para desenvolvimento backend com sintaxe elegante e recursos completos.
+
+- [Spring Boot](https://spring.io/projects/spring-boot)  
+  Framework Java para criação de aplicações
+
+
 
 ## Aprendizado e outras ferramentas IA
 

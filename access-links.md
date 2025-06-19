@@ -56,6 +56,7 @@
 - [Python](https://pypi.org/)
 - [Matplotib](https://matplotlib.org/stable/)
 - [IETF](https://www.ietf.org/ )
+- [Tudo sobre Redes e Protocolos](https://www.grc.com/default.htm)
 
 ## Frontend
 - [Material para HTML](http://www.clem.ufba.br/tuts/html/c18.htm)
@@ -110,6 +111,7 @@
 - [Desempenho de publicações](https://app.viralfindr.com/)
 - [Criação descrição de produtos](https://www.copy.ai/)
 - [Minerar produtos](https://app.e-sniper.com/)
+- [IBM Orientação a Objetos](https://dcm.ffclrp.usp.br/~evandro/ibm1030/intro_java/java_basics.html#:~:text=Compilada%20ou%20interpretada&text=Com%20Java%20acontecem%20as%20duas,e%20executa%20o%20Java%20bytecode.)
 
 ## Links sobre CSS e APIs
 

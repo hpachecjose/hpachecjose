@@ -14,6 +14,10 @@
 - [Mozilla org](https://mozillabr.org/)
 - [Leetcode](https://leetcode.com/)
 - [Beecrowd](https://judge.beecrowd.com/pt/login)
+- [Cursera](https://www.coursera.org/)
+- [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [Commontools](https://www.commontools.org/)
+- [Gsap](https://greensock.com/react/)
 - [Comunidade de Programação GUJ](https://www.guj.com.br/)
 - [Conceitos básicos de criptografia com Fábio Akita - parte 2](https://www.youtube.com/watch?v=HCHqtpipwu4)
 - [Utilizando o OllyDebuger](https://www.fergonez.net/rce/debugger)
@@ -24,6 +28,8 @@
 - [Código úteis em Java Script](https://terminalroot.com.br/2016/12/alguns-codigos-simples-de-javascript-2.html)
 - [Uma Blockchain em 200 linhas](https://medium.com/@johnsonmauro/uma-blockchain-em-200-linhas-de-c%C3%B3digo-96823f72637a)
 - [Tecnologias](https://top500.org/)
+- [Criação de mapas mentais](https://www.mindmeister.com/)
+- [Casa do Código](https://www.casadocodigo.com.br)
 
 ## Tecnologia de Redes de Computadores
 - [Registros de domínio](https://www.marcaria.com/ws/pt/registrar/dominios/registro-dominio-me?gclid=EAIaIQobChMI15rb6v2v9wIVbmxvBB0gwQ6AEAAYAiAAEgKauPD_BwE)
@@ -31,7 +37,7 @@
 - [Nmap book](https://nmap.org/book/)
 - [Notícias Hacker](https://news.ycombinator.com/)
 - [Cibersegurança](https://ava.cecyber.com/)
-- 
+- [Instalando o Kali Linux](https://www.youtube.com/watch?v=_jBJXJ9VrC0 )
 
 ## Frontend
 - [Material para HTML](http://www.clem.ufba.br/tuts/html/c18.htm)
@@ -51,6 +57,10 @@
 - [Framework HTML](https://popper.js.org/)
 - [Codepen](https://codepen.io/)
 - [Site 123Apps](https://123apps.com/pt/)
+- [Templates gratuitas](https://www.free-css.com/)
+- [Layouts mobile](https://infinum.com/blog/mobile-layouts-and-grids/)
+- [Downloda sites prontos](https://colorlib.com/wp/)
+- [Efeitos para sites](https://www.creativosonline.org/pt/efectos-css-texto.html#Efecto_burbuja )
 
 ## Outros links para Desenvolvimento
 - [Canva](https://www.canva.com)

@@ -73,6 +73,18 @@
 - [Criação descrição de produtos](https://www.copy.ai/)
 - [Minerar produtos](https://app.e-sniper.com/)
 
+## Links sobre CSS e APIs
+
+- [8 efeitos de transição em CSS3 – CSS3 Transitions (Wime)](https://wime.com.br/2015/08/21/8-efeitos-de-transicao-em-css3-css3-transitions/)  
+  Apresenta 8 efeitos populares de transição CSS3, como fade in, mudança de cor, crescer/encolher, rotação, arredondar, sombras 3D, swing e inserção de borda, com exemplos de código para aplicar em elementos HTML.
+
+- [API Behavior do Semantic UI](https://semantic-ui.com/behaviors/api.html)  
+  Documentação da API do Semantic UI que facilita a integração de fontes de dados com componentes UI, automatizando estados de requisição e UI, com suporte a URLs templated, tradução de respostas JSON e callbacks para integrações e testes.
+
+- [Frameworks CSS (Rock Content)](https://rockcontent.com/br/talent-blog/frameworks-css/)  
+  (Conteúdo não detalhado nos resultados, mas trata sobre frameworks CSS para desenvolvimento web.)
+
+
 ## Outros links para pesquisas
 - Google Trends: https://trends.google.com/trends/  
 - Statista: https://www.statista.com/  

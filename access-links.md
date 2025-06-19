@@ -8,14 +8,17 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [Gemini (Google)](https://gemini.google.com/)
 - [Gerador de Imagem Fotor](https://www.fotor.com/)
+- [Gerador de vídeos IA Flow](https://wonderdynamics.com/#product)
 
 ## Programação e Tecnologias diversas
+- [Editor de código online](https://stackblitz.com/)
 - [Stackoverflow em PT](https://pt.stackoverflow.com/)
 - [Mozilla org](https://mozillabr.org/)
 - [Leetcode](https://leetcode.com/)
 - [Beecrowd](https://judge.beecrowd.com/pt/login)
 - [Cursera](https://www.coursera.org/)
 - [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [CFB cursos](https://cfbcursos.com.br)
 - [Commontools](https://www.commontools.org/)
 - [Gsap](https://greensock.com/react/)
 - [Comunidade de Programação GUJ](https://www.guj.com.br/)
@@ -32,15 +35,21 @@
 - [Casa do Código](https://www.casadocodigo.com.br)
 
 ## Tecnologia de Redes de Computadores
+- [Roadmap SH](https://roadmap.sh/)
 - [Registros de domínio](https://www.marcaria.com/ws/pt/registrar/dominios/registro-dominio-me?gclid=EAIaIQobChMI15rb6v2v9wIVbmxvBB0gwQ6AEAAYAiAAEgKauPD_BwE)
 - [Site IANA](http://www.iana.org)
 - [Nmap book](https://nmap.org/book/)
 - [Notícias Hacker](https://news.ycombinator.com/)
 - [Cibersegurança](https://ava.cecyber.com/)
 - [Instalando o Kali Linux](https://www.youtube.com/watch?v=_jBJXJ9VrC0 )
+- [Conteúdo de tecnologia](https://www.dropwizard.io/en/latest/manual/forms.html)
+- [Departamento de computação](http://www3.decom.ufop.br/decom/inicio/)
+- [Python](https://pypi.org/)
+- [Matplotib](https://matplotlib.org/stable/)
 
 ## Frontend
 - [Material para HTML](http://www.clem.ufba.br/tuts/html/c18.htm)
+- [Tendência de novos sites](https://www.awwwards.com/websites/)
 - [Arquitetura para o CSS](http://smacss.com/)
 - [Análise SEO](https://pagespeed.web.dev/)
 - [Pipiads](https://www.pipiads.com/register)
@@ -61,6 +70,24 @@
 - [Layouts mobile](https://infinum.com/blog/mobile-layouts-and-grids/)
 - [Downloda sites prontos](https://colorlib.com/wp/)
 - [Efeitos para sites](https://www.creativosonline.org/pt/efectos-css-texto.html#Efecto_burbuja )
+- [Elementos HTML](https://uiverse.io/checkboxes)
+- [Validador de páginas HTML](https://validator.w3.org/)
+- [Material CSS](https://tableless.github.io/iniciantes/manual/css/background.html)
+  
+- [Domposer](https://domposer.com/)  
+  Editor visual HTML e CSS com recursos WYSIWYG para criação rápida de páginas web.
+
+- [BlueprintJS](https://blueprintjs.com/docs/)  
+  Biblioteca de componentes React para construção de interfaces complexas e responsivas.
+
+- [React](https://react.dev/)  
+  Biblioteca JavaScript para criação de interfaces de usuário baseadas em componentes.
+
+- [React Bootstrap](https://react-bootstrap.netlify.app/)  
+  Biblioteca que integra Bootstrap com React para desenvolvimento de UI responsiva.
+
+- [Responsividade - Vídeo YouTube](https://www.youtube.com/watch?v=H91DhKPjhPk)  
+  Tutorial sobre técnicas de responsividade em desenvolvimento web.
 
 ## Outros links para Desenvolvimento
 - [Canva](https://www.canva.com)
@@ -97,4 +124,115 @@
 - [Prisync](https://prisync.com/)  
 - [Informed](https://www.informed.co/)
 - [Mercado de PLRs](https://www.plrlab.com.br/)
+- [TV online](https://www.cxtv.com.br/tv-ao-vivo/retro-plus-tv)
+
+## Ferramentas para desenvolvimento Web
+
+- [Domposer](https://domposer.com/)  
+  Editor visual HTML e CSS com recursos WYSIWYG para criação rápida de páginas web.
+
+- [BlueprintJS](https://blueprintjs.com/docs/)  
+  Biblioteca de componentes React para construção de interfaces complexas e responsivas.
+
+- [React](https://react.dev/)  
+  Biblioteca JavaScript para criação de interfaces de usuário baseadas em componentes.
+
+- [React Bootstrap](https://react-bootstrap.netlify.app/)  
+  Biblioteca que integra Bootstrap com React para desenvolvimento de UI responsiva.
+
+- [Responsividade - Vídeo YouTube](https://www.youtube.com/watch?v=H91DhKPjhPk)  
+  Tutorial sobre técnicas de responsividade em desenvolvimento web.
+
+## Inteligências Artificiais
+
+- [Perplexity AI](https://www.perplexity.ai/)  
+  Assistente de busca e IA conversacional.
+
+- [Gemini (Google)](https://gemini.google.com/)  
+  Plataforma de IA avançada do Google.
+
+- [DeepMind](https://deepmind.google/)  
+  Laboratório de pesquisa em IA focado em avanços científicos.
+
+- [Google Colab](https://colab.research.google.com/)  
+  Ambiente colaborativo para executar e compartilhar código Python em nuvem.
+
+- [ChatGPT (OpenAI)](https://chat.openai.com/)  
+  Plataforma de chatbot baseada em IA para conversas e geração de texto.
+
+- [AI Test Kitchen (Google)](https://aitestkitchen.withgoogle.com/)  
+  Plataforma para experimentar e testar protótipos de IA.
+
+- [ImageFX (AI Test Kitchen)](https://aitestkitchen.withgoogle.com/)  
+  Ferramenta para criação de imagens geradas por IA.
+
+- [Claude (Anthropic)](https://www.anthropic.com/index/introducing-claude)  
+  Assistente de IA focado em segurança e usabilidade.
+
+- [DeepAI](https://deepai.org/)  
+  Plataforma com diversas ferramentas de IA para criação de conteúdo.
+
+- [Jasper - AI Copywriter | AI Content Generator for Teams](https://jasper.ai/)  
+  Ferramenta para geração de textos profissionais com IA.
+
+- [InVideo](https://invideo.io/)  
+  Plataforma para criação de vídeos com suporte a IA.
+
+- [Stable Diffusion Web](https://stablediffusionweb.com/#ai-image-generator)  
+  Gerador de imagens por IA baseado em Stable Diffusion.
+
+- [Leonardo.Ai](https://creator.nightcafe.studio/)  
+  Ferramenta para criação artística com IA.
+
+- [NightCafe Creator](https://creator.nightcafe.studio/studio)  
+  Plataforma para criação e compartilhamento de arte gerada por IA.
+
+- [Hugging Face](https://huggingface.co/)  
+  Comunidade e repositório de modelos e ferramentas de IA.
+
+- [Artbreeder](https://artbreeder.com/)  
+  Plataforma para criação colaborativa de imagens por IA.
+
+- [W.AI](https://www.w.ai/)  
+  Ferramenta de IA para criação de conteúdo.
+
+- [Google Colab - Projeto específico](https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK)  
+  Notebook colaborativo para projetos de IA.
+
+- [Resumidor de textos online (Anthiago)](https://anthiago.com/)  
+  Ferramenta para resumir textos automaticamente.
+
+## Produção de textos profissionais curtos e longos
+
+- [Copy.ai](https://copy.ai/)  
+  Plataforma para criação de textos profissionais com IA.
+
+## Para criação de músicas
+
+- [Beatoven.ai](https://beatoven.ai/)  
+  Música royalty-free gerada por IA.
+
+## Criação de imagens a partir de textos
+
+- [DALL·E (OpenAI)](https://openai.com/dall-e)  
+  Gerador de imagens a partir de descrições textuais.
+
+- [DALL·E Collections](https://openai.com/dall-e-2)  
+  Coleções de imagens geradas por DALL·E.
+
+- [HeyGen AI](https://app.heygen.com/guest/create/draft?vt=l&poster=&tab=template)  
+  Plataforma para criação de vídeos e avatares gerados por IA.
+
+## Aprendizado e outras ferramentas IA
+
+- Bard, Bing, Claude (assistentes IA)  
+- Marker.ai, Anthiago, Copy.ai, Jasper.ai (geração de conteúdo)  
+- Midjourney, DALL·E 2, DeepAI, Stability.ai (geração de imagens)  
+- Runway, Pictory.ai, Synthesia, Renderforest, Leonardo AI, Sora (geração de vídeos)  
+- Quillbot, Wordtune, Compose.ai (copywriting)  
+- Veed.io, Descript, Captions, Capcut (legendas)  
+- Soundrow, Beatoven (música)  
+- Tome app (criação de apresentações)  
+- Notion.ai (organização e produtividade)
+
   

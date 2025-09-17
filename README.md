@@ -22,7 +22,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Henrique Pacheco e sou um Programador Fullstack com mais de 5 anos de experiência em Desenvolvimento Web e Programação Backend. Sou autodidata e apaxonado por Ciência, Tecnologia e Engenharia.
+Desenvolvo diversas tecnologias do Frontend e Backend e atuo como Analista de Redes. 
 
 ## Habilidades
 

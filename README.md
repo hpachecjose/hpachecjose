@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou o Henrique
+#  Olá, eu sou o Henrique
 
-💻 **Desenvolvedor Web | Front-end & Back-end | Entusiasta de IA e Bancos de Dados**
+ **Desenvolvedor Web | Front-end & Back-end | Entusiasta de IA e Bancos de Dados**
 
 Sou programador apaixonado por transformar ideias em soluções digitais. Trabalho com **HTML, CSS, JavaScript, Node.js e React**, e atualmente estou desenvolvendo projetos próprios que unem **interfaces intuitivas** com **infraestrutura robusta**.
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-* 🎯 Sempre em busca de **aprender novas tecnologias** e melhorar minhas habilidades.
-* 🌐 Interesse especial em **aplicações web, inteligência artificial** e **infraestrutura de rede**.
-* 📊 Experiência prática com **bancos de dados (PostgreSQL, Prisma ORM)**.
-* 🛠️ Foco em criar **MVPs escaláveis** e soluções de impacto.
+*  ✅Sempre em busca de **aprender novas tecnologias** e melhorar minhas habilidades.
+*  ✅Interesse especial em **aplicações web, inteligência artificial** e **infraestrutura de rede**.
+*  ✅Experiência prática com **bancos de dados (PostgreSQL, Prisma ORM)**.
+*  ✅Foco em criar **MVPs escaláveis** e soluções de impacto.
 
 ---
 
@@ -48,11 +48,11 @@ Aqui estão algumas das stacks e ferramentas que uso no meu dia a dia:
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
-* 🌐 [LinkedIn](https://www.linkedin.com) *(adicione seu perfil real aqui!)*
-* 📧 **[seuemail@exemplo.com](mailto:henriquepachecjose@gmail.com)**
-* 🐙 [GitHub](https://github.com/hpachecjose)
+* ✅ [LinkedIn](https://www.linkedin.com) *(adicione seu perfil real aqui!)*
+* ✅ **[henriquepachecjose@gmail.com](mailto:henriquepachecjose@gmail.com)**
+* ✅ [GitHub](https://github.com/hpachecjose)
 
 ---
 

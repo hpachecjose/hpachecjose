@@ -1,118 +1,59 @@
-# Olá, sou o Henrique, Desenvolvedor Fullstack. Sejam Bem-vindos ao meu Github!
+# 👋 Olá, eu sou o Henrique
 
+💻 **Desenvolvedor Web | Front-end & Back-end | Entusiasta de IA e Bancos de Dados**
 
+Sou programador apaixonado por transformar ideias em soluções digitais. Trabalho com **HTML, CSS, JavaScript, Node.js e React**, e atualmente estou desenvolvendo projetos próprios que unem **interfaces intuitivas** com **infraestrutura robusta**.
 
+---
 
+## 🚀 Sobre mim
 
+* 🎯 Sempre em busca de **aprender novas tecnologias** e melhorar minhas habilidades.
+* 🌐 Interesse especial em **aplicações web, inteligência artificial** e **infraestrutura de rede**.
+* 📊 Experiência prática com **bancos de dados (PostgreSQL, Prisma ORM)**.
+* 🛠️ Foco em criar **MVPs escaláveis** e soluções de impacto.
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-[![Followers](https://img.shields.io/github/followers/hpachecoj?style=for-the-badge&logo=github&color=24292e)](https://github.com/hpachecoj?tab=followers) &nbsp; 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquepachecoprogramador/) &nbsp; 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquepachecj@gmail.com) &nbsp; 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UPaMDxsf)
+Aqui estão algumas das stacks e ferramentas que uso no meu dia a dia:
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white\&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white\&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white\&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma\&logoColor=white\&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql\&logoColor=white\&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-0078D4?logo=visual-studio-code\&logoColor=white\&style=flat)
 
+---
 
+## 📂 Projetos em destaque
 
+🔹 [**OpinApp**](https://github.com/hpachecjose/opinapp)
 
+> Plataforma para coleta de feedbacks de clientes de pequenos negócios, com **avaliações anônimas ou abertas** e **dashboard inteligente** usando IA para triagem e resumo de comentários.
 
+*(Sugestão: adicione mais projetos aqui, mesmo que simples, para mostrar evolução e variedade!)*
 
+---
 
+## 📊 Estatísticas do GitHub
 
-## Sobre Mim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hpachecjose\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpachecjose\&layout=compact\&theme=radical)
 
-Desenvolvo diversas tecnologias do Frontend e Backend e atuo como Analista de Redes. 
+---
 
-## Habilidades
+## 📫 Como me encontrar
 
-### Linguagens de Programação
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) &nbsp; 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com) &nbsp; 
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) &nbsp; 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp; 
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* 🌐 [LinkedIn](https://www.linkedin.com) *(adicione seu perfil real aqui!)*
+* 📧 **[seuemail@exemplo.com](mailto:seuemail@exemplo.com)**
+* 🐙 [GitHub](https://github.com/hpachecjose)
 
-### Frameworks e Bibliotecas
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org) &nbsp; 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) &nbsp; 
-[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com) &nbsp; 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com) &nbsp; 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
+---
 
-
-### Ferramentas e Tecnologias
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) &nbsp; 
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) &nbsp; 
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) &nbsp; 
-[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com) &nbsp; 
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com) &nbsp;
-[![Beecrowd](https://img.shields.io/badge/-Beecrowd-00599C?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br) &nbsp;
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Métricas de Aprendizado
-
-### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hpachecoj&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hpachecoj&layout=compact&langs_count=10&theme=radical)
-
-
-### Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hpachecoj&layout=compact&theme=radical)
-
-
-
-
-## Aprendizado Técnico
-
-- [Como Se Tornar um Programador em 2024](https://www.youtube.com/watch?v=Kf68YBMOPoM)
-  - Uma abordagem abrangente às habilidades e conhecimentos técnicos necessários para se tornar um programador em 2024.
-- [Documentos Web MDN](https://developer.mozilla.org/pt-BR/)
-  - Um dos melhores recursos para aprender sobre desenvolvimento web, incluindo HTML, CSS, JavaScript e outras tecnologias web.
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-  - Plataforma gratuita para aprender programação, com uma ampla variedade de cursos e projetos práticos.
-- [Codecademy](https://www.codecademy.com/)
-  - Plataforma interativa que oferece cursos de programação em várias linguagens, incluindo JavaScript, Python e mais.
-- [JavaScript.info](https://javascript.info/)
-  - Um recurso abrangente para aprender JavaScript, desde os básicos até tópicos avançados.
-- [Coursera - Engenheiro de Software](https://www.coursera.org/browse/computer-science/software-development)
-  - Cursos e especializações oferecidos por universidades renomadas sobre desenvolvimento de software.
-
-## Desafios online
-- [Leetcode](https://leetcode.com/)
-- [Beecrowd](https://beecrowd.com/pt/#)
-
-
-## Projetos:
-
-- [Plataforma de Estudo Online](https://github.com/FutureDataEnginer/coding-school)<br/>
-- [Estudos de Paradigmas Linguísticos Disruptivos]()<br/>
-- [Pesquisa de Sistemas de Inteligência Artificial]()<br/>
-
-## Inteligências Artificiais:
-
-- [Para programação - BlackboxAI](https://www.blackbox.ai/)<br/>
-- [Para conteúdo geral - ChatGPT](https://chatgpt.com/)<br/>
-- [Para revisão de texto - Gemini](https://gemini.google.com/app)<br/>
-- [Para pesquisa geral - Perplexity](https://www.perplexity.ai/)<br/>
-
-## Contato
-
-- **Email**: [henriquepachecjose@gmail.com](mailto:henriquepachecjose@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/henriquepachecoprogramador/](https://www.linkedin.com/in/henriquepachecojose/)
-- **GitHub**: [https://github.com/hpachecjose](https://github.com/hpachecjose)
-- **Himalayas**: [https://himalayas.app/@henriquepacheco1]
+✨ *"Sempre em construção, assim como o código."*

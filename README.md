@@ -51,7 +51,7 @@ Aqui estão algumas das stacks e ferramentas que uso no meu dia a dia:
 ## 📫 Como me encontrar
 
 * 🌐 [LinkedIn](https://www.linkedin.com) *(adicione seu perfil real aqui!)*
-* 📧 **[seuemail@exemplo.com](mailto:seuemail@exemplo.com)**
+* 📧 **[seuemail@exemplo.com](mailto:henriquepachecjose@gmail.com)**
 * 🐙 [GitHub](https://github.com/hpachecjose)
 
 ---

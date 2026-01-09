@@ -1,4 +1,4 @@
-![Logo](https://github.com/hpachecjose/hpachecjose/blob/main/logo_dark.jpg)
+![Logo](https://github.com/hpachecjose/hpachecjose/blob/main/logo_dark.svg)
 
 # Hello, welcome. I'm Henrique, a Fullstack Programmer.
 

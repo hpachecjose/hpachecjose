@@ -18,6 +18,7 @@
 ## About me
 I live in Greater Vitória, Espírito Santo, Brazil and currently work with various technologies, working in both Frontend and Backend. I develop websites, web applications, mobile applications, and custom software.
 Lately, I have been focusing on Computer Networks and Cybersecurity, working with network configuration and administration, Windows and Linux servers, infrastructure services, access control, traffic monitoring, vulnerability analysis, and security strengthening practices. I have a constant interest in information security, firewalls, network segmentation, VPNs, network protocols, and best practices for protecting corporate environments.
+
 I continuously seek improvement in the area of ​​Cybersecurity, keeping up-to-date with current standards, frameworks, and innovations, always focusing on prevention, incident response, and system reliability. I have an analytical profile, a security mindset from the outset, and a commitment to results-oriented, scalable, and secure environments.
 
 ## Professional Summary

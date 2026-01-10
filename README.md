@@ -12,7 +12,7 @@
 
 <br>
 
-# Hello, welcome. I'm Henrique, a Fullstack Programmer.
+
 
 
 

@@ -19,7 +19,7 @@
 # Hello, welcome. I'm Henrique, a Fullstack Programmer.
 
 ### *Work Philosophy*
-*I transform work and technical complexity into reliable and secure solutions.*
+*I transform technical work and complexity into reliable and secure solutions.*
 
 
 ## About me

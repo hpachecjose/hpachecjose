@@ -1,4 +1,7 @@
-![Logo](https://github.com/hpachecjose/hpachecjose/blob/main/logo_dark.svg)
+<p align="center">
+  <img src="https://github.com/hpachecjose/hpachecjose/blob/main/logo_dark.svg" alt="Logo" />
+</p>
+
 
 # Hello, welcome. I'm Henrique, a Fullstack Programmer.
 

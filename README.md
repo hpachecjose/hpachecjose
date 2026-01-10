@@ -2,9 +2,12 @@
   <img src="https://github.com/hpachecjose/hpachecjose/blob/main/logo_dark.svg" alt="Logo" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=hpachecjose&color=8b5cf6&style=flat)
-![Followers](https://img.shields.io/github/followers/hpachecjose?label=Followers&style=flat&logo=github)
-![Stars](https://img.shields.io/github/stars/hpachecjose?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hpachecjose&color=8b5cf6&style=flat" />
+  <img src="https://img.shields.io/github/followers/hpachecjose?label=Followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/hpachecjose?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github" />
+</p>
+
 
 # Hello, welcome. I'm Henrique, a Fullstack Programmer.
 
